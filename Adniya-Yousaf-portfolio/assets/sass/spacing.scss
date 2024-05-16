@@ -7,7 +7,7 @@
   --spacing-6: 3rem;
 
   --gap: var(--spacing-5);
-  --container: clamp(280px, calc(100vw - calc(var(--gap) * 2)), 1180px);
+  --container: clamp(280px, calc(100vw - calc(var(--gap) * 1)), 1180px);
   --box: clamp(280px, 50vw + 2px, 530px);
   /* https://web.dev/accessible-tap-targets/ */
   --fingertip: 48px;
